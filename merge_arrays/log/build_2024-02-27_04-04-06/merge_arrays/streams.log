@@ -1,0 +1,23 @@
+[0.400s] Invoking command in '/app/merge_arrays': PYTHONPATH=/app/merge_arrays/build/merge_arrays/prefix_override:/app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /app/merge_arrays/build/merge_arrays/build install --record /app/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
+[0.531s] running egg_info
+[0.532s] writing build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.533s] writing dependency_links to build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.534s] writing entry points to build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.535s] writing requirements to build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.536s] writing top-level names to build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.539s] reading manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.541s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.542s] running build
+[0.542s] running build_py
+[0.543s] running install
+[0.544s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.545s]   warnings.warn(
+[0.546s] running install_lib
+[0.546s] running install_data
+[0.547s] running install_egg_info
+[0.548s] removing '/app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info' (and everything under it)
+[0.550s] Copying build/merge_arrays/merge_arrays.egg-info to /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.561s] running install_scripts
+[0.576s] Installing merge_arrays_node script to /app/merge_arrays/install/merge_arrays/lib/merge_arrays
+[0.578s] writing list of installed files to '/app/merge_arrays/build/merge_arrays/install.log'
+[0.595s] Invoked command in '/app/merge_arrays' returned '0': PYTHONPATH=/app/merge_arrays/build/merge_arrays/prefix_override:/app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /app/merge_arrays/build/merge_arrays/build install --record /app/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed

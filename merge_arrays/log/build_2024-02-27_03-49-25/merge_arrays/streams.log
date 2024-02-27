@@ -1,0 +1,39 @@
+[0.315s] Invoking command in '/app/merge_arrays': PYTHONPATH=/app/merge_arrays/build/merge_arrays/prefix_override:/app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /app/merge_arrays/build/merge_arrays/build install --record /app/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
+[0.421s] running egg_info
+[0.422s] creating build/merge_arrays/merge_arrays.egg-info
+[0.423s] writing build/merge_arrays/merge_arrays.egg-info/PKG-INFO
+[0.424s] writing dependency_links to build/merge_arrays/merge_arrays.egg-info/dependency_links.txt
+[0.425s] writing entry points to build/merge_arrays/merge_arrays.egg-info/entry_points.txt
+[0.426s] writing requirements to build/merge_arrays/merge_arrays.egg-info/requires.txt
+[0.427s] writing top-level names to build/merge_arrays/merge_arrays.egg-info/top_level.txt
+[0.428s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.431s] reading manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.433s] writing manifest file 'build/merge_arrays/merge_arrays.egg-info/SOURCES.txt'
+[0.433s] running build
+[0.434s] running build_py
+[0.435s] creating /app/merge_arrays/build/merge_arrays/build
+[0.436s] creating /app/merge_arrays/build/merge_arrays/build/lib
+[0.436s] creating /app/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.437s] copying merge_arrays/__init__.py -> /app/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.438s] copying merge_arrays/merge_arrays_node.py -> /app/merge_arrays/build/merge_arrays/build/lib/merge_arrays
+[0.438s] running install
+[0.439s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.439s]   warnings.warn(
+[0.440s] running install_lib
+[0.440s] creating /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.441s] copying /app/merge_arrays/build/merge_arrays/build/lib/merge_arrays/__init__.py -> /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.442s] copying /app/merge_arrays/build/merge_arrays/build/lib/merge_arrays/merge_arrays_node.py -> /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays
+[0.442s] byte-compiling /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/__init__.py to __init__.cpython-310.pyc
+[0.444s] byte-compiling /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays/merge_arrays_node.py to merge_arrays_node.cpython-310.pyc
+[0.446s] running install_data
+[0.446s] creating /app/merge_arrays/install/merge_arrays/share/ament_index
+[0.447s] creating /app/merge_arrays/install/merge_arrays/share/ament_index/resource_index
+[0.447s] creating /app/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[0.448s] copying resource/merge_arrays -> /app/merge_arrays/install/merge_arrays/share/ament_index/resource_index/packages
+[0.449s] copying package.xml -> /app/merge_arrays/install/merge_arrays/share/merge_arrays
+[0.449s] running install_egg_info
+[0.450s] Copying build/merge_arrays/merge_arrays.egg-info to /app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages/merge_arrays-0.0.0-py3.10.egg-info
+[0.460s] running install_scripts
+[0.472s] Installing merge_arrays_node script to /app/merge_arrays/install/merge_arrays/lib/merge_arrays
+[0.474s] writing list of installed files to '/app/merge_arrays/build/merge_arrays/install.log'
+[0.487s] Invoked command in '/app/merge_arrays' returned '0': PYTHONPATH=/app/merge_arrays/build/merge_arrays/prefix_override:/app/merge_arrays/install/merge_arrays/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/merge_arrays build --build-base /app/merge_arrays/build/merge_arrays/build install --record /app/merge_arrays/build/merge_arrays/install.log --single-version-externally-managed
